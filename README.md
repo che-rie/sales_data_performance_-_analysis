@@ -1,4 +1,4 @@
-# sales_data_performance_-_analysis
+# sales_data_performance_and_analysis
 I analyzed a sales data performance using only excel, i cleaned the dataset with advanced excel functions, created new columns and also used the power query to further clean the dataset then I also analyzed using pivot tables, then used it to create an interactive dashboard using charts and slicers. I used the analysis to give business recommendations.
 
 # Sales Data Performance and Analysis (Excel Project)
