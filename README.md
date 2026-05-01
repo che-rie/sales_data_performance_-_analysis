@@ -3,26 +3,47 @@ I analyzed a sales data performance using only excel, i cleaned the dataset with
 
 # Sales Data Performance and Analysis (Excel Project)
 
-## 📊 Project Overview
-This project analyzes sales performance using Microsoft Excel. The goal is to uncover insights into revenue trends, customer behavior, and product performance.
+# sales_data_analysis_excel
 
-## 🛠 Tools Used
+Created a sales data analysis and dashboard using only excel
+
+## Project Overview
+This project involves analyzing a sales dataset using Microsoft Excel. The goal was to clean the data, perform analysis, and build an interactive dashboard.
+
+## Tools Used
 - Microsoft Excel
-- Excel power query
+- Power Query
 - Pivot Tables
 - Slicers
-- Charts & Dashboards
-- Data Cleaning Techniques
 
-## 📈 Key Insights
-- The analysis shows that revenue, profit and profit margin vary across products, regions, sales channel and months.
-- The online channel generates the highest revenue, the retail store generates higher profit margins.
-- Accessories sell in high volume but have lower profit margins compared to Electronics and Gadgets.
-- Monthly profit margins fluctuate due to changes in product mix, discounts, pricing strategies.
-- The company's profitability is driven more by product mix and sales channel than by revenue alone.
+## Key Analysis
+- Revenue by Product
+- Profit by Category
+- Sales by Region and State
+- Sales Channel Performance
+- Monthly Revenue Trends
+- Customer Type Analysis
 
-## 📌 Features
-- Interactive dashboard with slicers
-- KPI metrics (Revenue, Orders, Average Order Value)
+## Key Insights
+- Laptops generate the highest revenue
+- Accessories contribute significantly through high margins
+- Online channel drives revenue, retail has higher profit margins
+- New customers generate more revenue than returning customers
+- Sales peak in April and decline towards year-end
+
+## Dashboard
+The dashboard includes interactive slicers for:
+- Year
+- Region
+- State
+- Product
+- Sales Channel
+- Customer Type
+
+## Recommendations
+- Focus on high-margin products
+- Improve customer retention
+- Invest in online sales while optimizing profitability
+- Improve data collection for missing regions
 - Slicers 
 - Cleaned and structured dataset
