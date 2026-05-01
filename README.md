@@ -1,5 +1,5 @@
 # sales_data_performance_-_analysis
-I analyzed a sales data performance using only excel, i cleaned the dataset with advanced excel functions, then I also analyzed using pivot tables, then used it to create a dashboards using charts and slicers. I used the analysis to give business recommendations.
+I analyzed a sales data performance using only excel, i cleaned the dataset with advanced excel functions, created new columns and also used the power query to further clean the dataset then I also analyzed using pivot tables, then used it to create an interactive dashboard using charts and slicers. I used the analysis to give business recommendations.
 
 # Sales Data Performance and Analysis (Excel Project)
 
@@ -8,6 +8,7 @@ This project analyzes sales performance using Microsoft Excel. The goal is to un
 
 ## 🛠 Tools Used
 - Microsoft Excel
+- Excel power query
 - Pivot Tables
 - Slicers
 - Charts & Dashboards
